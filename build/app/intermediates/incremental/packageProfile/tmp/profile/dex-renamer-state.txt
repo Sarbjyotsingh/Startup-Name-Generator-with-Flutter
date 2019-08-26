@@ -1,0 +1,4 @@
+#Tue Aug 20 19:27:19 IST 2019
+base.0=/home/sarbjyot/AndroidStudioProjects/startup_namer/build/app/intermediates/transforms/dexMerger/profile/0
+path.0=classes.dex
+renamed.0=classes.dex
